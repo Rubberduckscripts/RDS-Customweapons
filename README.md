@@ -1,2 +1,2 @@
 # RDS-Customweapons
-Custom Weapons QB-Core
+Custom Weapons QB-Core made by RDS 
